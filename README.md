@@ -34,8 +34,13 @@ APK 로 빌드하여, 통합 모바일 앱으로 실물책을 스캔하여 활�
 유니티 기능의 경우 앱 내에서 유니티 화면을 호출하도록 하며, 마켓 플레이스의 경우 안드로이드에서 구현하고 자체적으로 FireBase 의 DB 를 활용하며, 필요한 정보를 저장할 때 활용한다.
 
 -----
+
 ## APK 다운로드
 👉 [app-debug.apk 다운로드](https://drive.google.com/file/d/10sWr82yBHVd-YXtNoxV1t8AV2rj6bMqR/view?usp=drive_link)
+
+## 시연 영상
+👉 [아기돼지삼형제](https://drive.google.com/file/d/1zJHuxDgvYZ08kej5UGl2L6jed4elYRpV/view?usp=sharing)
+👉 [토끼와자라](https://drive.google.com/file/d/1vEUM3Pmh3GHhJYFpWVpRMsF_nHeGUL5f/view?usp=sharing)
 
 -----
 
